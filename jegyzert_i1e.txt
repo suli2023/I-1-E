@@ -1,1 +1,11 @@
+Jegyzet
+
+2023-09-13
+https://github.com/suli2023/I-1-E
+
+github.com/oktat/tan
+
+https://github.com/oktat/tan/blob/master/prog_alapok/01_Programozas.md
+
+
 

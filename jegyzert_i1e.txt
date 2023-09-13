@@ -7,5 +7,31 @@ github.com/oktat/tan
 
 https://github.com/oktat/tan/blob/master/prog_alapok/01_Programozas.md
 
+szit.hu
+Oktatás > Programozős > Python
+
+Chocolatey
+
+choco install python -y
+c:\Users\Tanar\dev\sa\i1e\
+c:\Users\diak\dev\sa\i1e\
+alap/
+  |-main.py
+Állomány létrehozása Total Commanderben:
+Shift + F4
+
+dir
+python main.py
+
+TC: Átnevezés: Shift + F6
+
+Visual Studio Code
+VSCode
+code
+Aktuális könyvtárat nyissa meg:
+code .
+
+choco install vscode.install -y
+
 
 
